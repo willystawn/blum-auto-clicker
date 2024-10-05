@@ -1,24 +1,24 @@
 <img width="916" alt="blumai" src="https://github.com/user-attachments/assets/95b3a1b9-0c2c-4bb2-b904-7e63aaa4e0c5">
 
-# Blum Auto Clicker
+# BLUM Auto Clicker
 
-Blum Auto Clicker - is a tool designed to help you manage and interact with BlumCryptoBot. This tool will click on green objects instead of you, earning from 200-250 blums.
+Blum Auto Clicker - is a tool designed to help you manage and interact with BlumCryptoBot. This tool automatically clicks on green objects, allowing you to earn between 160-250 blums.
 
 ### Features
-- Not detective (as it not uses requests)
-- Almost not collects bombs
+- Undetectable (as it doesn't use direct requests)
+- Almost avoids collecting bombs
 - Automate interaction with BlumCryptoBot
 
 ### Installation
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/devbutlazy/Blum-AutoClicker
+    git clone https://github.com/willystawn/blum-auto-clicker.git
     cd blum-auto-clicker
     ```
 
 2. **Run the installation script:**
-	Run the following command in the command prompt:
+	Run the following command in command prompt:
     ```bash
     pip install -r requirements.txt
     ```
@@ -31,10 +31,10 @@ Blum Auto Clicker - is a tool designed to help you manage and interact with Blum
 	python main.py
 	```
 
-2. **Select an action:**
-    - Press `s` to start the clicker
-    - Press `p` to pause/resume the programm
-    - Press `p` to pause/resume the programm
+2. **Choose an action:**
+    - Press `s` to start the auto-clicker
+    - Press `p` to pause/resume the program
+    - Press `p` again to pause/resume the program (to make sure the function works properly)
 
 
-## You should fistly start the game, and then press 's' to start.
+## Make sure to start the game first, then press 's' to start auto-clicker.
